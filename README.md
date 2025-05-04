@@ -20,8 +20,8 @@ JavaScript (ES6) – Handling API requests
 Clone the repository:
 
 bash
-git clone https://github.com/YOUR_USERNAME/Pixabay-Image-Gallery.git
-cd Pixabay-Image-Gallery
+git clone https://github.com/ChillWithKanwal/codealpha_pixabay_image_gallery.git
+cd codealpha_pixabay_image_gallery
 Install dependencies:
 
 bash
